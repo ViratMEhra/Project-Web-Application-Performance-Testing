@@ -80,34 +80,5 @@ pipeline {
         }
     }
 }
-```
+ 
 
----
-
-## 📌 Steps to Upload to GitHub  
-
-1️⃣ **Go to GitHub** → Click **"New repository."**  
-2️⃣ Enter repository name (e.g., `WebApp-Performance-Testing`) → Click **"Create repository."**  
-3️⃣ Click **"Add file" → "Upload files."**  
-4️⃣ **Drag and drop** your project folder OR manually select each file.  
-5️⃣ Add a commit message (e.g., `"Initial upload: Performance testing project"`).  
-6️⃣ Click **"Commit changes."**  
-
-✅ **Done! Your project is now on GitHub.** 🎉  
-
----
-
-## 📊 Key Takeaways  
-- **JMeter** for load and stress testing  
-- **LoadRunner** for deep system performance analysis  
-- **Jenkins** for test automation  
-- **Reports generation** to analyze test results  
-
----
-
-🔗 **Author**: *Your Name*  
-🔗 **GitHub Repository**: [Your Repository Link]  
-
-```
-🚀 Happy Testing! 🚀
-```
